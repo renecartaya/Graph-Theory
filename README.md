@@ -15,3 +15,5 @@ The current repository is aimed to implement Graph-theory for pathfinding algori
   
 
 This project is developed mainly on Python and is projected to be enhanced using Machine Learning algorithms. 
+
+In the folder could be find some examples of implementations of pathfinding in industrial process and air ticket selections. 
