@@ -1,19 +1,18 @@
 # Pathfinding using Graph-Theory
 
-The current repository is aimed to implement Graph-theory for pathfinding algorithms. This could result in different applications that could include:
+The current repository aims to implement Graph-theory for pathfinding algorithms. Graph theory has applications that include:
+Chemical phenomena.
+The choice of tickets for transport from point A to point B combining different transport systems as:
 
- 1) Chemical phenomenas.
- 2) The choice of tickets for transport from point A to point B combining different transport systems as:
-    - Walking
-    - Bike
-    - Car driving
-    - Motorcycle driving
-    - Airplane
-    - Ships
-    
- 3) Preventive and predictive maintenance planning
-  
+  1) Walking
+  2) Bike
+  3) Car driving
+  4) Motorcycle driving
+  5) Airplanes
+  6) Ships
 
-This project is developed mainly on Python and is projected to be enhanced using Machine Learning algorithms. 
+Preventive and predictive maintenance planning.
 
-In the folder could be find some examples of implementations of pathfinding in industrial process and air ticket selections. 
+This project is developed mainly on Python and aims to be enhanced using Machine Learning algorithms.
+
+Some examples of implementations of pathfinding in the industrial process include air ticket selections, available in the repository.
