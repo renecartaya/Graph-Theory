@@ -10,8 +10,7 @@ The choice of tickets for transport from point A to point B combining different 
   4) Motorcycle driving
   5) Airplanes
   6) Ships
-
-Preventive and predictive maintenance planning.
+  7) Preventive and predictive maintenance planning
 
 This project is developed mainly on Python and aims to be enhanced using Machine Learning algorithms.
 
