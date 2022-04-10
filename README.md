@@ -15,3 +15,6 @@ The choice of tickets for transport from point A to point B combining different 
 This project is developed mainly on Python and aims to be enhanced using Machine Learning algorithms.
 
 Some examples of implementations of pathfinding in the industrial process include air ticket selections, available in the repository.
+
+![grafik](https://user-images.githubusercontent.com/52467158/162635491-463b4618-98f4-428a-b636-09f7ba2b7cb4.png)
+
