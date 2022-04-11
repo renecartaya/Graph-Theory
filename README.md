@@ -8,5 +8,7 @@ This project is developed mainly on Python and aims to be enhanced using Machine
 
 Some examples of implementations of pathfinding in the industrial process include air ticket selections, available in the repository.
 
+## Examples
+
 ![grafik](https://github.com/renecartaya/Pathfinding-with-Graph-Theory/blob/main/Pathfinder.png)
 
