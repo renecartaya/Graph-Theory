@@ -12,3 +12,7 @@ Some examples of implementations of pathfinding in the industrial process includ
 
 ![grafik](https://github.com/renecartaya/Pathfinding-with-Graph-Theory/blob/main/Pathfinder.png)
 
+## Observation
+
+The current system still under development.
+
