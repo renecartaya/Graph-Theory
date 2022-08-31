@@ -11,7 +11,7 @@ This project is developed mainly on Python and aims to be enhanced using Machine
 
 ## Example
 
-The current example represent an abstraction for resembling of the use of graph theory for applications as above mentioned.
+The current example represent an abstraction for resembling of the use of graph theory for applications as above mentioned. There is an scheme of the different paths to go from process 1 to process 2 according to the parameter to be optimized, either the energy, the time or to prioririze the accomplishment of the number of steps, i.e. the longer pathway. 
 
 ![grafik](https://github.com/renecartaya/Pathfinding-with-Graph-Theory/blob/main/Pathfinder.png)
 
