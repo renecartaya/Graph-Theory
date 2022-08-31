@@ -17,5 +17,5 @@ The current example represent an abstraction for resembling of the use of graph 
 
 ## Observation
 
-The project under development is aimed for applications in the development of optical inspection and metrology applications. However, the system could cover another applications like the previous mentioned.
+The project under development is aimed for applications in the optimization of optical inspection and metrology applications. However, the system could cover another applications like the previous mentioned.
 
